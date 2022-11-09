@@ -1,0 +1,9 @@
+[submodule "c_cpp/raspberry-pi-audio-visualizer"]
+	path = c_cpp/raspberry-pi-audio-visualizer
+	url = git@github.com:CatOrganization/raspberry-pi-audio-visualizer.git
+[submodule "rust/digital-living-art"]
+	path = rust/digital-living-art
+	url = git@github.com:CatOrganization/digital-living-art.git
+[submodule "raylib"]
+	path = raylib
+	url = git@github.com:raysan5/raylib.git
