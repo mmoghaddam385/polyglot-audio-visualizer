@@ -9,12 +9,13 @@ Audio visualizers can be fun to write.
 It combines the need for low-latency processing with artistic expression.
 Originally I started writing an audio visualizer with the idea of running it on a raspberry pi and mounting it on a wall,
 which adds an extra element of challenge to it (raspberry pi's are weak af when it comes to graphics).
-Maybe I'll make my way back to that idea one day who knows.
+Maybe I'll make my way back to that idea one day.
 
 More recently, my interest in slightly esoteric languages has taken over, 
 so I decided to organize myself a bit and put all my attempts into one repo.
 
 This repo serves as a log and archive of my attempts at writing audio visualizers in various different languages. 
+Feel free to read it, but I make no guarantees it'll be worth your while.
 
 ## C/C++
 
@@ -78,7 +79,8 @@ which will probably come in handy as I continue down this list of languages.
 
 Ultimately though, I ended up using a 3rd party library who did the hard work of dealing with the quirks of `c2nim` and raylib's headers.
 
-This implementation is still a work in progress.
+This visualizer is one of my favorites artistically, and it's quite efficient beacuse it's all compiled C 
+(can't really compare with others, since this visualization doesn't use FFT)
 
 ---
 
