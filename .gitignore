@@ -1,1 +1,3 @@
 .idea/
+zig/zig-cache
+zig/zig-out
