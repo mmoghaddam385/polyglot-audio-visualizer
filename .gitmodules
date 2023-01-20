@@ -7,3 +7,9 @@
 [submodule "raylib"]
 	path = raylib
 	url = git@github.com:raysan5/raylib.git
+[submodule "portaudio"]
+	path = portaudio
+	url = git@github.com:PortAudio/portaudio.git
+[submodule "openal-soft"]
+	path = openal-soft
+	url = git@github.com:kcat/openal-soft.git
